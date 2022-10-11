@@ -13,7 +13,7 @@ You can install chai using pip
 
 ## Documentation
 
-An API guide is available on the [Chai website](https://chai.ml/doc/python-api)
+An API guide is available on the [Chai website](https://chai.ml/docs/api-reference/python/)
 
 ## Testing
 
@@ -29,4 +29,4 @@ Python 3.7 or later is required.
 
 Speak to us on [Whatsapp](https://chat.whatsapp.com/Btbz9tYOpyG72oqI4NfGE1)
 
-Come join us on [Discord](https://discord.gg/YfrVwBtYWb)!
+Come join us on [Discord](https://discord.gg/KyRzfYDm)!
